@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">НМедиа</string>
+    <string name="text">НМедиа!</string>
+    <string name="time">вчера</string>
+    <string name="likes">likes</string>
+    <string name="comment">comment</string>
+    <string name="share">share</string>
+    <string name="eye">eye</string>
+    <string name="textview">Башня, впоследствии ставшая символом Парижа, была построена в 1889 году и первоначально задумывалась как временное сооружение, служившее входной аркой парижской Всемирной выставки 1889 года.</string>
+    <string name="user">Кругосветка</string>
+    <string name="times">сегодня в 11:34</string>
+</resources>
